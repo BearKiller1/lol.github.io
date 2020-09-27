@@ -5,6 +5,9 @@
     <title></title>
   </head>
   <body>
-    <p>1111111</p>
+    <img src="" alt="">
+    <img src="" alt="">
+    <img src="" alt="">
+    <img src="" alt="">
   </body>
 </html>
