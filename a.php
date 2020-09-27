@@ -5,9 +5,6 @@
     <title></title>
   </head>
   <body>
-    <img src="" alt="">
-    <img src="" alt="">
-    <img src="" alt="">
-    <img src="" alt="">
+231
   </body>
 </html>
